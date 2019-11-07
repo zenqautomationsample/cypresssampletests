@@ -23,9 +23,11 @@ bookHotel.spec.js - This test searches for a hotel, books the required hotel and
 Running the tests
 ------------------
 Pre-requisites to be installed 
+
 NodeJs  - Version:10.16.1 or higher 
 
 Steps
+
 1.	Clone this repo 
 2.	Launch command terminal and navigate to root path of this repo
 3.	Type “npm install” 
