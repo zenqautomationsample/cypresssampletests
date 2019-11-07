@@ -1,0 +1,12 @@
+module.exports={
+    FIRST_NAME:'#first_name',
+    LAST_NAME:'#last_name',
+    ADDRESS:'#address',
+    CREDIT_CARD:'#cc_num',
+    CREDIT_CARD_TYPE:'#cc_type',
+    CREDIT_EXPIRY_MONTH:'#cc_exp_month',
+    CREDIT_EXPIRY_YEAR:'#cc_exp_year',
+    CREDIT_CVV:'#cc_cvv',
+    BOOK_NOW_BUTTON:'#book_now',
+    ORDER_NO:'#order_no'
+}

@@ -1,0 +1,21 @@
+{
+    "URL": "https://adactin.com/HotelApp/",
+    "USERNAME":"skmvali456",
+    "PASSWORD": "429952",
+    "COUNTRY": "Sydney",
+    "HOTEL": "Hotel Creek",
+    "ROOM_TYPE": "Standard",
+    "NO_OF_ROOMS": "2 - Two",
+    "DATE_IN": "06/11/2019",
+    "DATE_OUT": "07/11/2019",
+    "ERROR_DATE_IN": "07/11/2019",
+    "ERROR_DATE_OUT": "06/11/2019",
+    "FIRST_NAME":"john",
+    "LAST_NAME":"bravo",
+    "ADDRESS":"abcdef",
+    "CREDIT_CARD_NUMBER":"0123456789123456",
+    "CREDIT_CARD_TYPE":"American Express",
+    "CREDIT_EXPIRY_MONTH":"January",
+    "CREDIT_EXPIRY_YEAR":"2021",
+    "CREDIT_CVV":"123"
+  }
